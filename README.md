@@ -1,2 +1,1 @@
-#ContaBanco
 Este repositório foi criado como parte do desafio proposto durante o bootcamp de Java conduzido pela Digital Innovation One em colaboração com o Santander. O desafio visa desenvolver habilidades de programação e prática em Java, através da implementação de um sistema de conta bancária. O repositório serve como um espaço para armazenar e compartilhar o código-fonte e outros recursos relacionados ao projeto.
